@@ -1,0 +1,32 @@
+h1 {
+    margin-top: 2%;
+}
+
+.container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1050px;
+    justify-content: space-around;
+    margin: 2% auto;
+}
+
+.product {
+    width: 25%;
+    padding: 10px;
+}
+
+.titulo-producto {
+    display: flex;
+    padding: 2em;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-product {
+    padding: 15px;
+}

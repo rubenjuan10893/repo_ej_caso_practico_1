@@ -1,0 +1,97 @@
+[{
+    "nombre": "Lenovo IdeaPad Flex 5 14IIL05 - Portátil Convertible 14\" FULLHD",
+    "categoria": "informatica",
+    "precio": "699.99€",
+    "imageUrl": "../assets/informatica/portatil_1.jpg",
+    "tipo": "portatil"
+}, {
+    "nombre": "Microsoft Surface Pro 7 - Ordenador portátil 2 en 1 de 12.3\" (Intel Core i5-1035G4, 8GB RAM, 128GB SSD, Intel Graphics, Windows 10) Plata",
+    "categoria": "informatica",
+    "precio": "799.00€",
+    "imageUrl": "../assets/informatica/portatil_2.jpg",
+    "tipo": "portatil"
+}, {
+    "nombre": "HP 15s-eq0025ns - Ordenador portátil de 15.6\" FullHD (AMD Ryzen 5 3500U, 8GB RAM, 256GB SSD, AMD Radeon Vega 8, Windows 10 Home) plata natural- Teclado QWERTY Español",
+    "categoria": "informatica",
+    "precio": "695.89€",
+    "imageUrl": "../assets/informatica/portatil_3.jpg",
+    "tipo": "portatil"
+}, {
+    "nombre": "MSI Modern 14 B10RBSW-063XES - Ordenador portátil Ultrafino de 14\" FullHD (Intel Core i7-10510U, 16GB RAM, 1TB SSD, Nvidia MX350-2GB, Sin sistema operativo) negro - Teclado QWERTY Español",
+    "categoria": "informatica",
+    "precio": "949.99€",
+    "imageUrl": "../assets/informatica/portatil_4.jpg",
+    "tipo": "portatil"
+}, {
+    "nombre": "Samsung QLED 4K 2020 50Q60T - Smart TV de 50\" con Resolución 4K UHD, con Alexa integrada, Inteligencia Artificial 4K Wide Viewing Angle, Sonido Inteligente, One Remote Control [Clase de eficiencia energética A]",
+    "categoria": "electronica",
+    "precio": "629.99€",
+    "imageUrl": "../assets/electronica/televisor_1.jpg",
+    "tipo": "TV"
+}, {
+    "nombre": "CHiQ Televisor Smart TV LED 40\", Resolución FHD, HDR 10/HLG, WiFi, Bluetooth (Solo Auriculares y Altavoces), Netflix, Prime Video, Youtube, HDMI, USB - L40H7N",
+    "categoria": "electronica",
+    "precio": "276.99€",
+    "imageUrl": "../assets/electronica/televisor_2.jpg",
+    "tipo": "TV"
+}, {
+    "nombre": "TV toshiba 32pulgadas Full HD - 32la3b63dg - Android - hdmi - USB - dvb - t2 - c - s2 - Bluetooth - a+",
+    "categoria": "electronica",
+    "precio": "225.25€",
+    "imageUrl": "../assets/electronica/televisor_3.jpg",
+    "tipo": "TV"
+}, {
+    "nombre": "Hisense 40AE5500F - Smart TV, Resolución Full HD, Natural Color Enhancer, Dolby Audio, Vidaa U 2.5 con IA, HDMI, USB, Salida auriculares [Clase de eficiencia energética A]",
+    "categoria": "electronica",
+    "precio": "289.99€",
+    "imageUrl": "../assets/electronica/televisor_4.jpg",
+    "tipo": "TV"
+}, {
+    "nombre": "Modern Classical Mechanics (Inglés)",
+    "categoria": "libros",
+    "precio": "63.01€",
+    "imageUrl": "../assets/libros/libro_fisica.jpg",
+    "tipo": "Ciencias, Tecnología y medicina"
+}, {
+    "nombre": "Clean JavaScript: Aprende a aplicar Código",
+    "categoria": "libros",
+    "precio": "19.97€",
+    "imageUrl": "../assets/libros/libro_js.jpg",
+    "tipo": "Informática, Internet y medios digitales"
+}, {
+    "nombre": "Curso completo de guitarra eléctrica: Método moderno de técnica y teoría aplicada",
+    "categoria": "libros",
+    "precio": "32.00€",
+    "imageUrl": "../assets/libros/libro_musica.jpg",
+    "tipo": "Musica"
+}, {
+    "nombre": "Dragon Ball Super nº 08 (Manga Shonen)",
+    "categoria": "libros",
+    "precio": "7.55€",
+    "imageUrl": "../assets/libros/libro_manga.jpg",
+    "tipo": "Cómics, manga y novelas"
+}, {
+    "nombre": "Assassin's Creed Valhalla",
+    "categoria": "consolas-videojuegos",
+    "precio": "46.29€",
+    "imageUrl": "../assets/consolas-videojuegos/videojuego_1.jpg",
+    "tipo": "Juego"
+}, {
+    "nombre": "Call of Duty: Black Ops Cold War",
+    "categoria": "consolas-videojuegos",
+    "precio": "59.99€",
+    "imageUrl": "../assets/consolas-videojuegos/videojuego_2.jpg",
+    "tipo": "Juego"
+}, {
+    "nombre": "Sony PlayStation 4 Pro (PS4)",
+    "categoria": "consolas-videojuegos",
+    "precio": "409.99€",
+    "imageUrl": "../assets/consolas-videojuegos/consola_1.jpg",
+    "tipo": "Consola"
+}, {
+    "nombre": "Xbox Series X",
+    "categoria": "consolas-videojuegos",
+    "precio": "500.99€",
+    "imageUrl": "../assets/consolas-videojuegos/consola_2.jpg",
+    "tipo": "Consola"
+}]
